@@ -1,0 +1,6 @@
+# ignore /LogFile repository
+**/LogFile/
+#ingnore /__pycache repository
+**/__pycache__/
+#ignore log file
+*.log
